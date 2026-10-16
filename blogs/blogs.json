@@ -1,0 +1,21 @@
+{
+  "repo": "tripplus",
+  "feeds": [
+    {
+      "source": "https://blog.tripplus.cc/zh/",
+      "feed_url": "https://blog.tripplus.cc/zh/feed",
+      "title": "",
+      "saved": 9,
+      "method": "discovered"
+    },
+    {
+      "source": "https://blog.tripplus.cc/zh/feed",
+      "feed_url": "https://blog.tripplus.cc/zh/feed",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 9,
+  "fetched": "2026-10-10T13:15:00Z"
+}
